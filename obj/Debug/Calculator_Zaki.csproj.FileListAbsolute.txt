@@ -1,0 +1,10 @@
+D:\Bootcamp\VisualStudio\Calculator_Zaki\bin\Debug\Calculator_Zaki.exe.config
+D:\Bootcamp\VisualStudio\Calculator_Zaki\bin\Debug\Calculator_Zaki.exe
+D:\Bootcamp\VisualStudio\Calculator_Zaki\bin\Debug\Calculator_Zaki.pdb
+D:\Bootcamp\VisualStudio\Calculator_Zaki\obj\Debug\Calculator_Zaki.csproj.AssemblyReference.cache
+D:\Bootcamp\VisualStudio\Calculator_Zaki\obj\Debug\Calculator_Zaki.Properties.Resources.resources
+D:\Bootcamp\VisualStudio\Calculator_Zaki\obj\Debug\Calculator_Zaki.csproj.GenerateResource.cache
+D:\Bootcamp\VisualStudio\Calculator_Zaki\obj\Debug\Calculator_Zaki.csproj.CoreCompileInputs.cache
+D:\Bootcamp\VisualStudio\Calculator_Zaki\obj\Debug\Calculator_Zaki.exe
+D:\Bootcamp\VisualStudio\Calculator_Zaki\obj\Debug\Calculator_Zaki.pdb
+D:\Bootcamp\VisualStudio\Calculator_Zaki\obj\Debug\Calculator_Zaki.Calculator.resources
